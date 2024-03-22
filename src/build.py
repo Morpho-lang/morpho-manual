@@ -1,4 +1,4 @@
-docsfolder = '../../morpho5/docs/'
+docsfolder = '../../morpho-libmorpho/help/'
 reffolder = 'Reference/'
 
 import os, glob
