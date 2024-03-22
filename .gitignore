@@ -1,3 +1,5 @@
 *.pov
 *.png
 *.DS_Store
+*.tex
+*.lyx~
