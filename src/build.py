@@ -10,7 +10,7 @@ files=glob.glob('**/**.morpho', recursive=True)
 for f in files:
     print(f)
     # Run the program
-    os.system('morpho6 ' + f)
+    os.system('morpho6 ' + f) 
 
 print('--Building reference section---------------------')
 
