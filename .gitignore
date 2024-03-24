@@ -1,5 +1,7 @@
 *.pov
 *.png
+!/src/Figures/morphologosmall.png
+!/src/Figures/morphologosmall-white.png
 *.DS_Store
 *.tex
 *.lyx~
