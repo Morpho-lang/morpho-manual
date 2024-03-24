@@ -1,6 +1,6 @@
 # Morpho-manual
 
-This repository contains the current version of the manual for the (morpho)[https://github.com/Morpho-lang/morpho] language. Please see the main repository for more information and installation instructions.
+This repository contains the current version of the manual for the [morpho](https://github.com/Morpho-lang/morpho) language. Please see the main repository for more information and installation instructions.
 
 The most recent version of the manual is available as a PDF document in this repository's root folder.
 
@@ -22,4 +22,4 @@ This script does two things:
 
 2. The reference manual is automatically build from `help` files included in the morpho-libmorpho repository. (Note that the build script assumes that the morpho-libmorpho repository has been cloned into the same folder as this repository).
 
-The manual can then be built using the (LyX)[http://www.lyx.org] document processor.
+The manual can then be built using the [LyX](http://www.lyx.org) document processor.
