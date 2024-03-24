@@ -1,3 +1,5 @@
+![Morpho](src/Figures/morphologosmall.png#gh-light-mode-only)![Morpho](src/Figures/morphologosmall-white.png#gh-dark-mode-only)
+
 # Morpho-manual
 
 This repository contains the current version of the manual for the [morpho](https://github.com/Morpho-lang/morpho) language. Please see the main repository for more information and installation instructions.
