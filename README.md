@@ -6,7 +6,7 @@ The most recent version of the manual is available as a PDF document in this rep
 
 ## Contributions welcome
 
-Suggestions to improve the manual are welcome. Please feel free to report errors, or suggest additional topics using the Issue tracker in this repository.
+Suggestions to improve the manual are welcome. Please feel free to report errors, suggest additional topics or identify user needs using the Issue tracker in this repository.
 
 Contributions to the manual are also welcome. Please follow the same style as used in the manual and submit changes via a pull request.
 
