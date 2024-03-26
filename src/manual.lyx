@@ -759,7 +759,7 @@ https://github.com/Morpho-lang/morpho
 \emph on
 Morpho
 \emph default
- also requires two susidiary programs, a terminal app hosted in 
+ also requires two subsidiary programs, a terminal app hosted in 
 \begin_inset Flex URL
 status open
 
@@ -798,7 +798,7 @@ morpho
 \emph default
  can be installed on all supported platforms using the homebrew package
  manager.
- Alternatively, the program can be installed from source as descrubed below.
+ Alternatively, the program can be installed from source as described below.
  We are continuously working on improving 
 \emph on
 morpho
@@ -1015,7 +1015,11 @@ The terminal application uses
 \end_layout
 
 \begin_layout Description
-libgrapheme OR, 
+libgrapheme 
+\emph on
+or
+\emph default
+, 
 \end_layout
 
 \begin_layout Description
@@ -3612,7 +3616,7 @@ var fopt = FieldOptimizer(problem, nn)
 
 \end_inset
 
-Having created these, we can perform the optimizion by calling the 
+Having created these, we can perform the optimization by calling the 
 \family typewriter
 linesearch
 \family default
@@ -9494,7 +9498,17 @@ Cholesteric
 
 \begin_layout Standard
 A cholesteric liquid crystal, in contrast to a nematic liquid crystal as
- was considered in the tutorial in Chapter X, favors a twisted state.
+ was considered in the tutorial in Chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "chap:Tutorial"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, favors a twisted state.
  The liquid crystal elastic energy is modified to include a preferred chiral
  wavevector 
 \begin_inset Formula $q_{0}$
@@ -10773,7 +10787,7 @@ The problem as posed requires
 \begin_inset Formula $\phi$
 \end_inset
 
- to very sharply change in the upper left and lower right cornes as the
+ to very sharply change in the upper left and lower right corners as the
  imposed potential changes, but far away from these 
 \begin_inset Formula $\phi$
 \end_inset
@@ -12620,7 +12634,7 @@ Notice that we estimate the initial stepsize from the number of particles.
 \family typewriter
 conjugategradient
 \family default
-works well and typically converges in around 
+ works well and typically converges in around 
 \begin_inset Formula $100$
 \end_inset
 
@@ -12742,7 +12756,7 @@ Minimal surface constrained to lie outside two ellipsoidal one-sided level
 \end_layout
 
 \begin_layout Standard
-The wrap example finds a minimal surface constrainted to lie outside two
+The wrap example finds a minimal surface constrained to lie outside two
  ellipsoids.
  The solution, shown in Fig.
  
