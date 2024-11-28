@@ -166,7 +166,7 @@ figs-within-sections
 \begin_inset Newline newline
 \end_inset
 
-Version 0.6.0
+Version 0.6.1
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ Emmanuel Flores
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Constantine Moseley
 \end_layout
 
 \end_inset
@@ -1752,7 +1752,7 @@ status open
 
 \begin_layout Plain Layout
 
-morpho5 script.morpho
+morpho6 script.morpho
 \end_layout
 
 \end_inset
@@ -1829,7 +1829,7 @@ status open
 
 \begin_layout Plain Layout
 
-morpho5
+morpho6
 \end_layout
 
 \end_inset
