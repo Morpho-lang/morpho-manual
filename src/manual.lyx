@@ -166,7 +166,7 @@ figs-within-sections
 \begin_inset Newline newline
 \end_inset
 
-Version 0.6.1
+Version 0.6.2
 \end_layout
 
 \begin_layout Standard
@@ -723,6 +723,55 @@ morpho
 \emph default
  functionality.
  
+\end_layout
+
+\begin_layout Section*
+
+\emph on
+Citing morpho
+\end_layout
+
+\begin_layout Standard
+If you use morpho in an academic project, please cite as follows:—
+\end_layout
+
+\begin_layout Quotation
+
+\emph on
+Joshi, C., Hellstein, D., Wennerholm, C.
+ et al.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A programmable environment for shape optimization and shapeshifting problems.
+\begin_inset Quotes erd
+\end_inset
+
+ Nat Comput Sci (2024).
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://doi.org/10.1038/s43588-024-00749-7"
+target "https://doi.org/10.1038/s43588-024-00749-7"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A preprint of the article is also available 
+\begin_inset CommandInset href
+LatexCommand href
+name "on the arXiv 2208.07859"
+target "https://arxiv.org/abs/2208.07859"
+literal "false"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Chapter
